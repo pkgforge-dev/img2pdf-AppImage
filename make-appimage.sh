@@ -15,7 +15,7 @@ export MAIN_BIN=img2pdf
 
 # Deploy dependencies
 quick-sharun \
-	/usr/bin/img2pdf-gui*      \
+	/usr/bin/img2pdf*          \
 	/usr/lib/libtk8*.so*       \
 	/usr/lib/libtcl*.so        \
 	/usr/lib/tk8*              \
